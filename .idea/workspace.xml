@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e60f5373-ea6d-4422-acd6-a8b9e7e20d90" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ryoudo/algorithm/RadixSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ryoudo/algorithm/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ryoudo/algorithm/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ryoudo/algorithm/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ryoudo/algorithm/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ryoudo/algorithm/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ryoudo/algorithm/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ryoudo/algorithm/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ryoudo/algorithm/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ryoudo/algorithm/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ryoudo/algorithm/ShellSort.java" afterDir="false" />
-    </list>
+    <list default="true" id="e60f5373-ea6d-4422-acd6-a8b9e7e20d90" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ryoudo/algorithm/RadixSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="45" column="23" lean-forward="true" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+            <state relative-caret-position="301">
+              <caret line="52" selection-start-line="51" selection-start-column="1" selection-end-line="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,6 +123,12 @@
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="545" />
     <option name="y" value="-15" />
@@ -181,7 +179,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -308,7 +306,7 @@
       <workItem from="1589265334770" duration="331000" />
       <workItem from="1595500296817" duration="1011000" />
       <workItem from="1595568471319" duration="16056000" />
-      <workItem from="1595656006681" duration="3653000" />
+      <workItem from="1595656006681" duration="3932000" />
     </task>
     <task id="LOCAL-00001" summary="基础排序算法">
       <created>1595597089111</created>
@@ -317,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595597089111</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="排序算法">
+      <created>1595659695697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595659695697</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -353,11 +358,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44143000" />
+    <option name="totallyTimeSpent" value="44422000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49882352" visible="true" weight="0.21165438" />
       <window_info id="Structure" order="1" sideWeight="0.5011765" side_tool="true" weight="0.2009377" />
@@ -368,7 +372,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -376,7 +380,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3281471" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -385,7 +389,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32953784" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32953784" />
@@ -396,7 +400,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="基础排序算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="基础排序算法" />
+    <MESSAGE value="排序算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="排序算法" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algorithm$QuickSort_quickSort.ic" NAME="QuickSort.quickSort Coverage Results" MODIFIED="1589208277189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -482,8 +487,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ryoudo/algorithm/RadixSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="45" column="23" lean-forward="true" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+        <state relative-caret-position="301">
+          <caret line="52" selection-start-line="51" selection-start-column="1" selection-end-line="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
