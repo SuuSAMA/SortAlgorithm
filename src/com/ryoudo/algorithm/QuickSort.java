@@ -31,7 +31,7 @@ public class QuickSort {
 
 
     @Test
-    public void quickSort(){
+    public void test(){
         int n = 100000;
         int[]arr = ArrayUtils.createRandomArray(n, 0, 120000);
         long starTime = System.currentTimeMillis();
