@@ -1,3 +1,3 @@
 # SortAlgorithm
-## 数据结构Java实现
+## 排序算法Java实现
 - coder: theia
